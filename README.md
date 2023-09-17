@@ -1,4 +1,4 @@
-# LDNet: High Accuracy Fish Counting Network using Limited Training Samples with Density Map Generation
+# LDNet: High Accuracy Fish Counting Framework using Limited training samples with Density map generation Network
 
 ![](README_md_files/b2eb5560-507f-11ee-ab89-8d5e8495a351.jpeg?v=1&type=image)
 
